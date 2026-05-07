@@ -28,7 +28,7 @@ Esta herramienta parchea dinámicamente el archivo `Engine.ini` del juego, inyec
 3. El script pedirá permisos de Administrador automáticamente.
 
 **Opción B: Compilar a .EXE**
-El código fuente está diseñado con un sistema de auto-elevación híbrido. Puedes usar herramientas como `PS2EXE` para convertirlo en un ejecutable estándar de Windows.
+El código fuente está diseñado con un sistema de auto-elevación híbrido. Puedes usar herramientas como `PS2EXE` para convertirlo en un ejecutable estándar de Windows. O usar el release del repositorio.
 
 ## 🔄 Restauración
 La herramienta incluye un botón de "Restaurar" que elimina todos los parches de VOIP inyectados y devuelve los permisos originales al archivo `Engine.ini`.
